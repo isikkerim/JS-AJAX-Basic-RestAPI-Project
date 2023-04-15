@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "Suç ve Ceza ",
+      "author": "Dostoyevski ",
+      "id": 1
+    }
+ 
+  ],
+  "comments": [
+    {
+      "body": "",
+      "id": 1
+    }
+  ]
+}
